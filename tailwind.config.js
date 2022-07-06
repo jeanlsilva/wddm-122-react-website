@@ -8,7 +8,7 @@ module.exports = {
       backgroundImage: {
         'hero': "url('./assets/images/background.jpg')",
         'choices': "url('./assets/images/barista.jpg')",
-        'about': "url('./assets/images/about-image.jpg')",
+        'about': "url('./assets/images/about-background.jpg')",
         'contact': "url('./assets/images/contact-background.jpg')"
       },
 
