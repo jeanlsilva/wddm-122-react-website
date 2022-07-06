@@ -12,7 +12,6 @@ function App() {
         <Route path="/wddm-122-react-website/about" element={<About />} />
       </Routes>
     </BrowserRouter>
-
   );
 }
 

@@ -7,9 +7,9 @@ function Header() {
                 </a>
             </div>
             <div className="flex-1 flex justify-around items-center">
-                <a href="/" className="text-sm text-white cursor-pointer hover:text-yellow-200 transition-all duration-500">Home</a>
-                <a href="/menu" className="text-sm text-white cursor-pointer hover:text-yellow-200 transition-all duration-500">Menu</a>
-                <a href="/about" className="text-sm text-white cursor-pointer hover:text-yellow-200 transition-all duration-500">About us</a>
+                <a href="/wddm-122-react-website" className="text-sm text-white cursor-pointer hover:text-yellow-200 transition-all duration-500">Home</a>
+                <a href="/wddm-122-react-website/menu" className="text-sm text-white cursor-pointer hover:text-yellow-200 transition-all duration-500">Menu</a>
+                <a href="/wddm-122-react-website/about" className="text-sm text-white cursor-pointer hover:text-yellow-200 transition-all duration-500">About us</a>
             </div>
         </div>
     )
