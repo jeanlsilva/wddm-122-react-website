@@ -8,8 +8,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/wddm-122-react-website" element={<Home />} />
-        <Route path="menu" element={<Menu />} />
-        <Route path="about" element={<About />} />
+        <Route path="/menu" element={<Menu />} />
+        <Route path="/about" element={<About />} />
       </Routes>
     </BrowserRouter>
 
